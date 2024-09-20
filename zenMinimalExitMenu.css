@@ -7,7 +7,7 @@
     min-height: 13px !important;
     min-width: 13px !important;
     align-self: center;
-    background-color: hsl(0, 0%, 20%) !important;
+    background-color: var(--zen-colors-border) !important;
     margin-left: 5px !important;
     border-radius: 50px;
     transition: all 100ms;
